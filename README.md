@@ -92,6 +92,4 @@ Contributions, issues, and feature requests are welcome! Feel free to submit a p
 
 ---
 
-## 📜 **License**  
-
-This project is **MIT Licensed** – you are free to use and modify it.  
+  
